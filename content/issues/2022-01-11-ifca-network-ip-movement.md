@@ -1,7 +1,7 @@
 ---
 section: issue
 title: IFCA Network IP Movement
-date: 2022-01-12 08:30:59.
+date: 2022-01-12 08:30:59
 resolvedWhen: 2022-01-12 13:00:59
 resolved: true
 severity: disrupted
