@@ -495,10 +495,11 @@ params:
 # know what you are doing.
 theme: cstate
 
-preserveTaxonomyNames: true
-
-taxonomies:
-  affected: affected
+disableKinds:
+  - section
+  - taxonomy
+  - taxonomyTerm
+  - sitemap
 
 outputs:
   page:
@@ -519,7 +520,20 @@ outputs:
     - rss
     - svg
 
+# NetlifyCMS support
+mediaTypes:
+  application/netlifyconfig:
+    suffixes:
+      - "yml"
+
 outputFormats:
   svg:
     isPlainText: true
     mediaType: image/svg+xml
+
+  netlifyyaml:
+    baseName: "config"
+    isPlainText: true
+    isHTML: false
+    mediaType: "application/netlifyconfig"
+    notAlternative: true
