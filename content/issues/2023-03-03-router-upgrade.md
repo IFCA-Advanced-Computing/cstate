@@ -1,10 +1,9 @@
 ---
 section: issue
-title: Actualización de router / Router upgrade (Finalizdo / Completed)
+title: Actualización de router / Router upgrade
 date: 2023-03-06 08:00:00
-resolvedWhen: 2023-03-06 12:00:54
 resolved: true
-severity: down
+resolvedWhen: 2023-03-06 12:00:54
 affected:
   - Login nodes
   - OpenStack Cloud Public APIs
@@ -20,6 +19,7 @@ affected:
   - DNS
   - OpenStack Dashboard (Horizon)
   - Nextcloud
+severity: down
 ---
 
 * Update 6/3/2023 12:20 *
