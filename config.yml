@@ -97,7 +97,8 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://status.ifca.es
+# baseURL: https://status.ifca.es
+baseURL: https://sprightly-longma-7c4715.netlify.app/
 
 # For features like Last modified, you
 # need to use a Git repository. If you
