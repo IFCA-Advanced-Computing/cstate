@@ -409,10 +409,10 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  # customTabs:
-  #  -
-  #    name: Name
-  #    link: https://example.com
+  customTabs:
+   -
+     name: About
+     link: /pages/about.md
 
   # Disable complex server-side
   # calculations that may impact
