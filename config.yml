@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: IFCA Computing status page
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://status.ifca.es
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -143,12 +143,31 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
+    - name: Altamira supercomputer
+      description: Altamira supercomputer related systems.
       closed: true
-    - name: Empty Category
+    - name: Cloud Infrastructure
+      description: OpenStack Cloud infrastructure.
+      closed: true
+    - name: Grid and HTC
+      description: General purpose batch system and high throughput compute system.
+      closed: true
+    - name: Web and miscelaneous services
+      description: Web services, wiki pages and other services.
+      closed: true
+    - name: AAI
+      description: Authentication, Authorization and Identity systems.
+      closed: true
+    - name: Networking
+      description: Internal and external networking.
+      closed: true
+    - name: Storage systems
+      description: Distributed storage systems.
+      closed: true
     - name: Uncategorized
       untitled: true
+
+
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -158,20 +177,110 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
-      category: Uncategorized
-      link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+    - name: Batch System
+      description: Slurm batch system for Altamira
+      category: Altamira supercomputer
+    - name: Login nodes
+      description: Altamira login nodes (login1, login2)
+      category: Altamira supercomputer
+    - name: OpenStack Cloud Public APIs
+      description: null
+      category: Cloud Infrastructure
+    - name: OpenStack Compute (nova)
+      description: null
+      category: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:8774/
+    - name: OpenStack Identity (Keystone)
+      description: null
+      category: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:5000/
+    - name: OpenStack Object Storage (Swift)
+      description: null
+      category: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:8080/
+    - name: OpenStack Block Storage (cinder)
+      description: null
+      category: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:8776/
+    - name: OpenStack Image catalalog (Glance)
+      description: null
+      category: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:9292/
+    - name: OpenStack Networking (Neutron)
+      description: null
+      category: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:9696/
+    - name: User Interfaces
+      description: null
+      category: Grid and HTC
+    - name: Computing Elements
+      description: null
+      category: Grid and HTC
+    - name: Indico Agenda pages
+      description: null
+      category: Web and miscelaneous services
+      link: https://indico.ifca.es/
+    - name: Wordpress pages
+      description: null
+      category: Web and miscelaneous services
+      link: https://wordpress.ifca.es/
+    - name: Wiki (Confluence)
+      description: null
+      category: Web and miscelaneous services
+      link: https://confluence.ifca.es/
+    - name: Videoconference system
+      category: Web and miscelaneous services
+      link: https://talk.ifca.es/
+    - name: Chat rooms
+      category: Web and miscelaneous services
+      link: https://meet.ifca.es/
+    - name: GitLab
+      category: Web and miscelaneous services
+      link: https://gitlab.ifca.es/
+    - name: IFCA repository mirror
+      category: Web and miscelaneous services
+      link: https://repo.ifca.es/
+    - name: Data Science Hub
+      category: Web and miscelaneous services
+      link: https://datasciencehub.ifca.es/
+    - name: Helpdesk
+      category: Web and miscelaneous services
+      link: https://support.ifca.es
+    - name: Monitoring
+      category: Web and miscelaneous services
+      link: https://monitor.ifca.es
+    - name: Authentication Single Sign-on
+      category: AAI
+      link: https://sso.ifca.es
+    - name: Authentication main system
+      category: AAI
+      link: https://auth01.ifca.es
+    - name: Authentication replica
+      category: AAI
+      link: https://auth02.ifca.es
+    - name: External network connection
+      category: Networking
+    - name: Internal networking
+      category: Networking
+    - name: Backup system
+      category: Storage systems
+    - name: Ceph block storage
+      category: Storage systems
+    - name: IBM Spectrum Scale
+      category: Storage systems
+    - name: Tape system
+      category: Storage systems
+    - name: DNS
+      category: Networking
+    - name: OpenStack Dashboard (Horizon)
+      category: Cloud Infrastructure
+      link: https://portal.cloud.ifca.es
+    - name: OpenStack Compute Nodes
+      category: Cloud Infrastructure
+    - name: Nextcloud
+      category: Web and miscelaneous services
+      description: Internal nextcloud Suit
+      link: nextcloud.ifca.es
 
   # What date format to use?
   #
@@ -208,7 +317,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  useRelativeTime: true
+  useRelativeTime: false
  
   # If enabled, doesn't show seconds on relative times.
   #
@@ -292,7 +401,8 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  # description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: This page is updated by humans, who have to sleep from time to time.
 
   # Tabs on homepage
   # Uncomment to enable.
@@ -377,7 +487,7 @@ params:
   # the value to the default:
   #
   # Default: UA-00000000-1
-  googleAnalytics: UA-00000000-1
+  # googleAnalytics: UA-00000000-1
 
 # These options affect the core of cState.
 # Please do not change them if you do not
