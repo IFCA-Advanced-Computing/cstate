@@ -444,7 +444,7 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#0a0c0f"
+  brand: "#ffffff"
   ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
@@ -473,7 +473,7 @@ params:
   #
   # Default: `white`
   # STRING; `white`, `black`, or nothing
-  headerTextColor: white
+  headerTextColor: black
 
   # Google Analytics tracking code
   #
