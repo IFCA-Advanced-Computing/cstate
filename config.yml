@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: IFCA Computing status page
+title: IFCA Computing services status page
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -409,10 +409,10 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  customTabs:
-   -
-     name: About
-     link: /pages/about.md
+  # customTabs:
+  #  -
+  #    name: About
+  #    link: /pages/about.md
 
   # Disable complex server-side
   # calculations that may impact
