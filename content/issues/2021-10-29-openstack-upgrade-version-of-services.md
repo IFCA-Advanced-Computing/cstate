@@ -1,13 +1,10 @@
 ---
 section: issue
 title: "[OpenStack] Upgrade version of services"
-date: 2021-11-16T07:30:23.001Z
+date: 2021-11-16 07:30:23
+resolvedWhen: 2021-11-16 18:23:00
 resolved: true
-
-
 severity: down
-
-resolvedWhen: 2021-11-16T18:23:00.000Z
 affected:
   - OpenStack Cloud Public APIs
   - OpenStack Compute (nova)
@@ -19,8 +16,6 @@ affected:
   - Computing Elements
   - OpenStack Dashboard (Horizon)
   - OpenStack Compute Nodes
-
-
 ---
 An upgrade in the OpenStack Cloud Computing services will be scheduled at Nov 16 until the services will be updated.
 

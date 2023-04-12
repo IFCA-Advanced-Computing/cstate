@@ -1,13 +1,10 @@
 ---
 section: issue
 title: Networking disruption by an update in the router Monday 02/08
-date: 2021-08-02T08:00:00.000Z
+resolvedWhen: 2021-08-02 08:00:00
+date: 2021-07-27 11:35:37
 resolved: true
-
-
 severity: down
-
-resolvedWhen: 2021-07-27T11:35:37.060Z
 affected:
   - Batch System
   - Login nodes
@@ -29,7 +26,5 @@ affected:
   - Monitoring
   - External network connection
   - OpenStack Dashboard (Horizon)
-
-
 ---
 An scheduled replacement of the router in our DataCenter will cause a disruption of less than an hour next Monday 02/08 since 10 a.m. Although the services will not be shutdown, they will be unavailable during the mini-disruption from the external network.

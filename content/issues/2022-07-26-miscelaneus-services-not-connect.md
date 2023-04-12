@@ -1,17 +1,12 @@
 ---
 section: issue
 title: Miscelaneus services not connect
-date: 2022-08-01T08:56:55.152Z
+resolvedWhen: 2022-08-01 08:56:55
+date: 2022-07-26 07:50:32
 resolved: true
-
-
 severity: down
-
-resolvedWhen: 2022-07-26T07:50:32.966Z
 affected:
   - OpenStack Compute Nodes
-
-
 ---
 Buenos días,
 
@@ -21,7 +16,7 @@ Disculpen las molestias
 
 Actualización: "Estamos observando que las máquinas con volúmenes attacheados puede que haya que reiniciarlas (no utilizar reiniciar, mejor stop/start), cuando estas se reinician puede seguir habiendo algún microcorte o latencias en las lecturas del disco"
 
-\--- --- --- --- ---
+---
 
 Good morning,
 

@@ -1,13 +1,10 @@
 ---
 section: issue
 title: Cloud infrastructure is down
-date: 2021-01-11T14:15:00.000Z
+date: 2021-01-11 14:15:00
+resolvedWhen: 2021-01-11 15:15:30
 resolved: true
-
-
 severity: down
-
-resolvedWhen: 2021-01-11T15:15:30.824Z
 affected:
   - OpenStack Compute (nova)
   - OpenStack Block Storage (cinder)

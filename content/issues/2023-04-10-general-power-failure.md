@@ -1,13 +1,10 @@
 ---
 section: issue
 title: General power failure
-date: 2023-04-10T03:34:41.684Z
-status: in_progress
-
-
+date: 2023-04-10 03:34:41
+resolved: true
 severity: disrupted
-
-resolvedWhen: 2023-04-10T07:28:41.722Z
+resolvedWhen: 2023-04-10 07:28:41
 affected:
   - Batch System
   - Computing Elements
@@ -22,7 +19,5 @@ affected:
   - Nextcloud
   - OpenStack Compute Nodes
   - DNS
-
-
 ---
-A general power failure on Monday 10 April at 5:34 am makes some of our services unavailable until a manual intervention.
+A general power failure on Monday 10 April at 3:34 makes some of our services unavailable until a manual intervention.

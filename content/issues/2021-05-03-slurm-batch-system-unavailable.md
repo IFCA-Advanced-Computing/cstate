@@ -1,16 +1,11 @@
 ---
 section: issue
 title: Slurm Batch System unavailable
-date: 2021-05-03T09:24:49.165Z
+date: 2021-05-03 09:24:49
+resolvedWhen: 2021-05-03 09:45:25
 resolved: true
-
-
 severity: down
-
-resolvedWhen: 2021-05-03T09:45:25.812Z
 affected:
   - Batch System
-
-
 ---
-The database of slurm batch system was down at 10:30 a.m. We are currently trying to recover the service.
+The database of slurm batch system was down. We are currently trying to recover the service.

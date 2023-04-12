@@ -1,13 +1,10 @@
 ---
 section: issue
 title: Change topology network IFCA-RedIris
-date: 2021-12-14T07:00:21.072Z
+date: 2021-12-14 07:00:21
+resolvedWhen: 2021-12-14 08:00:21
 resolved: true
-
-
 severity: disrupted
-
-resolvedWhen: 2021-12-14T08:00:21.097Z
 affected:
   - OpenStack Dashboard (Horizon)
   - Login nodes
@@ -20,6 +17,7 @@ affected:
 
 
 ---
-Network conectivity has been restored sucessfully at 8:35 am (Local Time).
+
+Network conectivity has been restored sucessfully at 8:35 (CEST).
 
 Services seems to be working fine.

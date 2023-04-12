@@ -1,13 +1,10 @@
 ---
 section: issue
 title: Scheduled mainteinance of IFCA Computing resources
-date: 2021-01-18T15:00:00.000Z
+date: 2021-01-18 15:00:00
+resolvedWhen: 2021-01-21 13:13:50
 resolved: true
-
-
 severity: down
-
-resolvedWhen: 2021-01-21T13:13:50.862Z
 affected:
   - Batch System
   - Login nodes

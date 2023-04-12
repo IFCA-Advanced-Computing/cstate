@@ -1,19 +1,14 @@
 ---
 section: issue
 title: "[OpenStack] Problem launching new instances"
-date: 2022-03-17T13:24:57.449Z
+date: 2022-03-17 13:24:57
+resolvedWhen: 2022-03-17 14:00:57
 resolved: true
-
-
 severity: disrupted
-
-resolvedWhen: 2022-03-17T14:00:57.500Z
 affected:
   - OpenStack Compute (nova)
   - OpenStack Networking (Neutron)
   - OpenStack Cloud Public APIs
-
-
 ---
 OpenStack launch an error when a new instance is created. We are monitoring the openstack services to detect the reason of the issue.
 

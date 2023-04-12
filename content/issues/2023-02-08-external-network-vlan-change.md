@@ -1,13 +1,10 @@
 ---
 section: issue
 title: External Network vlan change
-date: 2023-02-09T08:00:23.195Z
+resolvedWhen: 2023-02-09 08:00:23
+date: 2023-02-08 11:20:23
 resolved: true
-
-
 severity: down
-
-resolvedWhen: 2023-02-08T11:20:23.207Z
 affected:
   - User Interfaces
   - OpenStack Cloud Public APIs
