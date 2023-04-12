@@ -5,7 +5,6 @@ date: 2021-06-14 07:00:47
 resolvedWhen: 2021-06-14 12:00:57
 resolved: true
 severity: down
-informational: true
 affected:
   - Computing Elements
 

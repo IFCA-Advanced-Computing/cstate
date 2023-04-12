@@ -5,7 +5,6 @@ date: 2022-08-01 07:51:02
 resolvedWhen: 2022-08-31 22:00:00
 resolved: true
 severity: down
-informational: true
 affected:
   - OpenStack Cloud Public APIs
   - OpenStack Compute (nova)
