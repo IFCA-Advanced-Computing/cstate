@@ -2,16 +2,16 @@
 section: issue
 title: Miscelaneus services not connect
 date: 2022-08-01T08:56:55.152Z
-status: resolved
-pinned: ""
-current_severity: ok
-max_severity: monitoring
-duration: ""
-resolved_on: 2022-07-26T07:50:32.966Z
+resolved: true
+
+
+severity: down
+
+resolvedWhen: 2022-07-26T07:50:32.966Z
 affected:
   - OpenStack Compute Nodes
-twitterFeed: ""
-enableComments: true
+
+
 ---
 Buenos días,
 

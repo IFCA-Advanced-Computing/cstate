@@ -2,12 +2,12 @@
 section: issue
 title: Actualización de router / Router upgrade (Finalizdo / Completed)
 date: 2023-03-06T08:00:00.000Z
-status: resolved
-pinned: ""
-current_severity: maintenance
-max_severity: down
-duration: 4h
-resolved_on: 2023-03-06T12:00:54.946Z
+resolved: true
+
+
+severity: down
+
+resolvedWhen: 2023-03-06T12:00:54.946Z
 affected:
   - Login nodes
   - OpenStack Cloud Public APIs
@@ -23,8 +23,8 @@ affected:
   - DNS
   - OpenStack Dashboard (Horizon)
   - Nextcloud
-twitterFeed: ""
-enableComments: true
+
+
 ---
 U﻿pdate 6/3/2023 12:20
 
@@ -67,7 +67,7 @@ Next Monday, March 6, 2023, during the morning, we will proceed to perform an ur
 \
 This will affect all the external connections of all our services, it will NOT affect any of the booted machines, only their external access.\
 \
-The approximate duration will be from 9:00 to 14:00.\
+The approximate 
 \
 You can follow the status of our services at \[1].\
 \

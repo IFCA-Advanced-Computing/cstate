@@ -2,16 +2,16 @@
 section: issue
 title: Actualización del estado del CPD
 date: 2022-12-01T11:14:10.576Z
-status: resolved
-pinned: null
-current_severity: monitoring
-max_severity: down
-duration: ""
-resolved_on: 2022-11-30T19:00:42.631Z
+resolved: true
+
+
+severity: down
+
+resolvedWhen: 2022-11-30T19:00:42.631Z
 affected:
   - Authentication Single Sign-on
-twitterFeed: ""
-enableComments: true
+
+
 ---
 
 

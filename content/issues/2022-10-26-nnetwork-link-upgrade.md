@@ -2,16 +2,16 @@
 section: issue
 title: Network Link Upgrade
 date: 2022-11-17T08:30:46.460Z
-status: resolved
-pinned: ""
-current_severity: ok
-max_severity: disrupted
-duration: 3h
-resolved_on: 2022-10-27T07:00:41.941Z
+resolved: true
+
+
+severity: disrupted
+
+resolvedWhen: 2022-10-27T07:00:41.941Z
 affected:
   - External network connection
-twitterFeed: ""
-enableComments: true
+
+
 ---
 Mañana día Jueves 17 de Noviembre
 

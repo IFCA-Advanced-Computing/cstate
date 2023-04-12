@@ -2,12 +2,12 @@
 section: issue
 title: External Network vlan change
 date: 2023-02-09T08:00:23.195Z
-status: resolved
-pinned: ""
-current_severity: ok
-max_severity: ok
-duration: 15min
-resolved_on: 2023-02-08T11:20:23.207Z
+resolved: true
+
+
+severity: down
+
+resolvedWhen: 2023-02-08T11:20:23.207Z
 affected:
   - User Interfaces
   - OpenStack Cloud Public APIs
@@ -17,8 +17,8 @@ affected:
   - Authentication Single Sign-on
   - OpenStack Object Storage (Swift)
   - External network connection
-twitterFeed: ""
-enableComments: true
+
+
 ---
 D﻿ONE!!
 

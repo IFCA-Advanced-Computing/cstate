@@ -2,12 +2,12 @@
 section: issue
 title: Scheduled mainteinance of IFCA Computing resources
 date: 2021-01-18T15:00:00.000Z
-status: resolved
-pinned: ""
-current_severity: ok
-max_severity: down
-duration: ""
-resolved_on: 2021-01-21T13:13:50.862Z
+resolved: true
+
+
+severity: down
+
+resolvedWhen: 2021-01-21T13:13:50.862Z
 affected:
   - Batch System
   - Login nodes
@@ -42,8 +42,8 @@ affected:
   - DNS
   - OpenStack Dashboard (Horizon)
   - OpenStack Compute Nodes
-twitterFeed: ""
-enableComments: false
+
+
 ---
 The IFCA computing resources will be unavailable starting on Monday, 18 January 2021 15:00 UTC until Wednesday, 20 January 2021 15:00 UTC.
 

@@ -2,17 +2,17 @@
 section: issue
 title: Spectrum Scale low performance
 date: 2023-02-11T09:15:19.301Z
-status: resolved
-pinned: ""
-current_severity: monitoring
-max_severity: monitoring
-duration: 48h
-resolved_on: 2023-02-11T09:15:08.734Z
+resolved: true
+
+
+severity: down
+
+resolvedWhen: 2023-02-11T09:15:08.734Z
 affected:
   - IBM Spectrum Scale
   - Computing Elements
-twitterFeed: ""
-enableComments: true
+
+
 ---
 NetApp has requested a firmware upgrade of the disks. This is causing high latencies as this update causes a recontruction of certain LUNs. We expect it to last at least 48 hours.
 
