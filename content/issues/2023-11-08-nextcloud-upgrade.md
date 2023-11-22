@@ -2,7 +2,7 @@
 section: issue
 title: Nextcloud Upgrade
 date: 2023-11-08T09:41:00.859Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
