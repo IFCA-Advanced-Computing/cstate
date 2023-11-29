@@ -9,7 +9,6 @@ pin: true
 resolvedWhen: 2023-11-27T07:30:00.000Z
 affected:
   - Batch System
-  - Login nodes
   - User Interfaces
   - Computing Elements
   - Indico Agenda pages
@@ -17,14 +16,17 @@ affected:
   - OpenStack Compute Nodes
 severity: disrupted
 ---
+\[Update: 29 nov. 12am]
+
+* HPC Altamira is operative again.
+* Working in making HTC operative.
+
 \[Update: 28 nov. 11am]
 
 * Some issues with HPC to make new slurm nodes available with the new gpfs storage. 
 * HTC is down yet. 
 * Cloud is operative and the virtual machines are up. Btw, some machines were in ERROR state or do not boot properly. They will be reviewed during today. 
 * New Cloud and HPC physical machines are installed but not up. 
-
-
 
 \[English version below]\
 \
