@@ -2,7 +2,7 @@
 section: issue
 title: Mantenimiento de transformador de edificio / Building transformer maintenance
 date: 2023-11-22T17:18:14.655Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
