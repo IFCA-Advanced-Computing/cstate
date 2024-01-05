@@ -2,7 +2,7 @@
 section: issue
 title: Upgrade Slurm urgently because of multiple CRITICAL risk vulnerabilities
 date: 2023-12-18T08:00:05.166Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
