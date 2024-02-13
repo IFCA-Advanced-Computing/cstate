@@ -2,7 +2,7 @@
 section: issue
 title: Cloud OpenStack cluster disrupting failures
 date: 2024-01-29T08:00:04.983Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
