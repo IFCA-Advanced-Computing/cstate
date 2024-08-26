@@ -10,9 +10,10 @@ resolvedWhen: 2024-07-17T12:17:51.787Z
 affected:
   - OpenStack Compute (nova)
   - OpenStack Cloud Public APIs
-severity: notice
+  - OpenStack Networking (Neutron)
+severity: disrupted
 ---
-An upgrade in the OpenStack Cloud Computing services will be scheduled at 23 July until the services will be updated.
+An upgrade in the OpenStack Cloud Computing services will be scheduled week of 26 August until the services will be updated.
 
 \[Update July 23 - 15:00]
 
