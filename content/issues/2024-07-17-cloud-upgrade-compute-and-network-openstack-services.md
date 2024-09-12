@@ -2,7 +2,7 @@
 section: issue
 title: "[CLOUD] Upgrade Compute and Network OpenStack services"
 date: 2024-07-23T06:30:51.777Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
