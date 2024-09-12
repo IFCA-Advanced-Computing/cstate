@@ -2,7 +2,7 @@
 section: issue
 title: Mantenimiento de transformador de edificio / Building transformer
   maintenance 2024
-date: 2024-09-12T09:00:50.803Z
+date: 2024-09-12T08:37:57.312Z
 resolved: false
 draft: false
 informational: false
