@@ -2,7 +2,7 @@
 section: issue
 title: Cinder update to Wallaby
 date: 2024-08-06T07:32:42.643Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: false
