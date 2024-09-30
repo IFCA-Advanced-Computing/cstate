@@ -27,13 +27,9 @@ severity: disrupted
 ---
 Nota: C﻿orte de corriente eléctrica del CPD mañana 01/10/2024 martes a las 9:00
 
-Note: CPD power down supply tomorrow 01/10/2024 Tuesday at 9:00 a.m.
-
-
+Note: Datacenter power down supply tomorrow 01/10/2024 Tuesday at 9:00 a.m.
 
 - - -
-
-
 
 \[English version below]
 
@@ -75,12 +71,8 @@ IFCA Advanced Computing Team
 
 \[3] https://advancedcomputing.ifca.es
 
-
-
 - - -
-
-
 
 Nota: C﻿orte de corriente eléctrica del CPD mañana 01/10/2024 martes a las 9:00
 
-Note: CPD power down supply tomorrow 01/10/2024 Tuesday at 9:00 a.m.
+Note: Datacenter CPD power down supply tomorrow 01/10/2024 Tuesday at 9:00 a.m.
