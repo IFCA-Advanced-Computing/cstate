@@ -25,6 +25,14 @@ affected:
   - Nextcloud
 severity: disrupted
 ---
+\[Update 1 oct. 10:45]
+
+The intervention was performed well and in time. The cloud services (nextcloud, confluence) are already available. 
+
+The rest of the machines (grid or HPC) are restarting. 
+
+\------------------------------------------------------------------------------------------------------------------------------------------------
+
 Nota: C﻿orte de corriente eléctrica del CPD mañana 01/10/2024 martes a las 9:00
 
 Note: Datacenter power down supply tomorrow 01/10/2024 Tuesday at 9:00 a.m.
