@@ -2,10 +2,10 @@
 section: issue
 title: Incidencia eléctrica urgente / Urgent electrical incident
 date: 2024-09-28T11:31:12.360Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2024-09-28T11:31:12.378Z
 affected:
   - OpenStack Compute Nodes
