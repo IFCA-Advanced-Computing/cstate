@@ -2,7 +2,7 @@
 section: issue
 title: "[Gitlab] Upgrade the service to solve security vulnerabilities"
 date: 2024-10-10T19:44:49.672Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
