@@ -2,7 +2,7 @@
 section: issue
 title: Authentication to login2 failing using password+otp
 date: 2024-11-19T00:09:59.788Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
@@ -12,3 +12,7 @@ affected:
 severity: disrupted
 ---
 We are investigating a potential issue to authenticate users in login2 when ssh with password and otp is used.
+
+
+
+L﻿ogin2.ifca.es is already working
