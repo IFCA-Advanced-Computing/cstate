@@ -4,7 +4,7 @@ title: Ampliacion de potencia del CPD / Datacenter power upgrade
 date: 2025-02-23T11:28:24.801Z
 resolved: false
 draft: false
-informational: false
+informational: true
 pin: false
 resolvedWhen: 2025-02-28T11:28:24.809Z
 affected:
