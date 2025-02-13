@@ -5,7 +5,7 @@ date: 2025-02-23T11:28:24.801Z
 resolved: false
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2025-02-28T11:28:24.809Z
 affected:
   - Batch System
@@ -42,7 +42,7 @@ affected:
   - OpenStack Dashboard (Horizon)
   - OpenStack Compute Nodes
   - Nextcloud
-severity: down
+severity: notice
 ---
 \[English version below]\
 \
