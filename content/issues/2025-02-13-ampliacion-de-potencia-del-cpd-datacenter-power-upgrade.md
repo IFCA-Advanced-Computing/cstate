@@ -46,7 +46,7 @@ severity: notice
 ---
 **\[ Update Feb 25, 05:30 p.m.]**
 
-After several unforeseen events in the power supply intervention, the stimated datetime for system power-on will be tomorrow afternoon. 
+After several unforeseen events in the power supply intervention, the stimated datetime for system power-on will be tomorrow afternoon instead of the morning as was expected. 
 
 
 
