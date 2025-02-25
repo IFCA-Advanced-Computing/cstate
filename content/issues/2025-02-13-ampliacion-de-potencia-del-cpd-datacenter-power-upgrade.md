@@ -44,6 +44,12 @@ affected:
   - Nextcloud
 severity: notice
 ---
+**\[ Update Feb 25, 05:30 p.m.]**
+
+After several unforeseen events in the power supply intervention, the stimated datetime for system power-on will be tomorrow afternoon. 
+
+
+
 \[English version below]\
 \
 \
