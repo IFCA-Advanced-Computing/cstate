@@ -2,11 +2,11 @@
 section: issue
 title: "Authentication system migration "
 date: 2025-02-14T11:35:41.285Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-02-14T11:35:41.296Z
+resolvedWhen: 2025-02-16T11:35:41.296Z
 affected:
   - Authentication main system
 severity: notice
