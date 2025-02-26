@@ -46,9 +46,7 @@ severity: notice
 ---
 **\[ Update Feb 25, 05:30 p.m.]**
 
-**After several unforeseen events in the power supply intervention, the stimated datetime for system power-on will be tomorrow afternoon instead of the morning as was expected.** 
-
-
+**After several unforeseen events in the power supply intervention, the estimated datetime for system power-on will be Feb 26th afternoon instead of the morning as it was expected.** 
 
 \[English version below]\
 \
@@ -91,7 +89,7 @@ En esta parada técnica se realizarán las siguientes tareas:
 * GPFS storage expansion.
 * Renewal of refrigerator.\
   \
-  Since these tasks will be time-consuming, it is expected that we will start datacenter work on Wednesday morning.\
+  Since these tasks will be time-consuming, it is expected that we recover the services on Wednesday morning.\
   \
   We will keep you informed of the work on our status page \[1].\
   \
