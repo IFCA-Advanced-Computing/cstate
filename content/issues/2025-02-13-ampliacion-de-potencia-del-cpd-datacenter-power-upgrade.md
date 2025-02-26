@@ -4,7 +4,7 @@ title: Ampliacion de potencia del CPD / Datacenter power upgrade
 date: 2025-02-23T11:28:24.801Z
 resolved: false
 draft: false
-informational: true
+informational: false
 pin: false
 resolvedWhen: 2025-02-28T11:28:24.809Z
 affected:
@@ -42,7 +42,7 @@ affected:
   - OpenStack Dashboard (Horizon)
   - OpenStack Compute Nodes
   - Nextcloud
-severity: notice
+severity: down
 ---
 **\[ Update Feb 25, 05:30 p.m.]**
 
