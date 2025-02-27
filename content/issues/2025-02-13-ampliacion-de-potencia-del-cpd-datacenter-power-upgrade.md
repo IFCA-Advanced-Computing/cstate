@@ -42,11 +42,27 @@ affected:
   - OpenStack Dashboard (Horizon)
   - OpenStack Compute Nodes
   - Nextcloud
-severity: down
+severity: disrupted
 ---
-**\[ Update Feb 25, 05:30 p.m.]**
+**\[ Update Feb 27, 12:30 p.m.]**
 
-**After several unforeseen events in the power supply intervention, the estimated datetime for system power-on will be Feb 26th afternoon instead of the morning as it was expected.** 
+Trabajos terminados.
+
+Arrancando servicios generales
+
+\[English version below]
+
+Finished works.
+
+Starting up general services
+
+Best regards
+
+
+
+\[ Update Feb 25, 05:30 p.m.]
+
+After several unforeseen events in the power supply intervention, the estimated datetime for system power-on will be Feb 26th afternoon instead of the morning as it was expected. 
 
 \[English version below]\
 \
