@@ -10,38 +10,11 @@ resolvedWhen: 2025-02-28T11:28:24.809Z
 affected:
   - Batch System
   - Login nodes
-  - OpenStack Cloud Public APIs
-  - OpenStack Compute (nova)
-  - OpenStack Identity (Keystone)
-  - OpenStack Object Storage (Swift)
-  - OpenStack Block Storage (cinder)
-  - OpenStack Image catalalog (Glance)
-  - OpenStack Networking (Neutron)
   - User Interfaces
   - Computing Elements
-  - Indico Agenda pages
-  - Wordpress pages
   - Wiki (Confluence)
-  - Videoconference system
-  - Chat rooms
-  - IFCA repository mirror
-  - GitLab
   - Data Science Hub
-  - Helpdesk
-  - Monitoring
-  - Authentication Single Sign-on
-  - Authentication main system
-  - Authentication replica
-  - External network connection
-  - Internal networking
-  - Ceph block storage
-  - Backup system
   - IBM Spectrum Scale
-  - Tape system
-  - DNS
-  - OpenStack Dashboard (Horizon)
-  - OpenStack Compute Nodes
-  - Nextcloud
 severity: notice
 ---
 **\[ Update Feb 28, 8:40 a.m.]**
