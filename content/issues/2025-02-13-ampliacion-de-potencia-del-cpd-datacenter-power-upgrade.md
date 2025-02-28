@@ -46,7 +46,7 @@ severity: notice
 ---
 **\[ Update Feb 28, 8:40 a.m.]**
 
-Todos los servicios cloud estn levantados, si tiene alguna VM con un volumen asociado y se encuentra en read-only reinicie la mquina.
+Todos los servicios cloud estn levantados, si tiene alguna VM con un volumen asociado y se encuentra en read-only reinicie la máquina.
 
 Incremento de almacenamiento GPFS contina rebalanceando, se arrancará en cuanto termine este proceso.
 
