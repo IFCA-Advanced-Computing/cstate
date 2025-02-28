@@ -42,8 +42,22 @@ affected:
   - OpenStack Dashboard (Horizon)
   - OpenStack Compute Nodes
   - Nextcloud
-severity: disrupted
+severity: notice
 ---
+**\[ Update Feb 28, 8:40 a.m.]**
+
+Todos los servicios cloud estn levantados, si tiene alguna VM con un volumen asociado y se encuentra en read-only reinicie la mquina.
+
+Incremento de almacenamiento GPFS contina rebalanceando, se arrancará en cuanto termine este proceso.
+
+All cloud services are up, if you have any VM with an associated volume and it is in read-only restart the machine.
+
+GPFS storage incrementing continues to rebalance, it will be started as soon as this process is finished.
+
+R﻿egards
+
+
+
 **\[ Update Feb 27, 12:30 p.m.]**
 
 Trabajos terminados.
@@ -60,12 +74,16 @@ Best regards
 
 
 
-\[ Update Feb 25, 05:30 p.m.]
+**\[ Update Feb 25, 05:30 p.m.]**
 
 After several unforeseen events in the power supply intervention, the estimated datetime for system power-on will be Feb 26th afternoon instead of the morning as it was expected. 
 
-\[English version below]\
-\
+
+
+
+
+\[English version below]
+
 Estimados/as usuarios/as,\
 \
 El próximo domingo 23 de Febrero se procederá a realizar una parada técnica total del CPD sobre las 18:00\
