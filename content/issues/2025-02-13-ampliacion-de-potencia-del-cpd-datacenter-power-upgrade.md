@@ -15,6 +15,7 @@ affected:
   - Wiki (Confluence)
   - Data Science Hub
   - IBM Spectrum Scale
+  - Authentication Single Sign-on
 severity: notice
 ---
 **\[ Update Feb 28, 8:40 a.m.]**
