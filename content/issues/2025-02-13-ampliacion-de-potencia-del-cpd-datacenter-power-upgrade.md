@@ -50,13 +50,13 @@ Todos los servicios cloud estn levantados, si tiene alguna VM con un volumen aso
 
 Incremento de almacenamiento GPFS contina rebalanceando, se arrancará en cuanto termine este proceso.
 
+\[English version]
+
 All cloud services are up, if you have any VM with an associated volume and it is in read-only restart the machine.
 
 GPFS storage incrementing continues to rebalance, it will be started as soon as this process is finished.
 
 R﻿egards
-
-
 
 **\[ Update Feb 27, 12:30 p.m.]**
 
@@ -64,7 +64,7 @@ Trabajos terminados.
 
 Arrancando servicios generales
 
-\[English version below]
+\[English version]
 
 Finished works.
 
@@ -72,15 +72,9 @@ Starting up general services
 
 Best regards
 
-
-
 **\[ Update Feb 25, 05:30 p.m.]**
 
 After several unforeseen events in the power supply intervention, the estimated datetime for system power-on will be Feb 26th afternoon instead of the morning as it was expected. 
-
-
-
-
 
 \[English version below]
 
