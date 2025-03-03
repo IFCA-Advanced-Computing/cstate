@@ -18,6 +18,18 @@ affected:
   - Authentication Single Sign-on
 severity: notice
 ---
+**\[ Update Mar 3, 13:40 a.m.]**
+
+G﻿PFS status:
+
+NVR scrub 14d (41%)
+
+SSD scrub 14d (87%)
+
+GPFS rebalance (96%)
+
+
+
 **\[ Update Feb 28, 8:40 a.m.]**
 
 Todos los servicios cloud estn levantados, si tiene alguna VM con un volumen asociado y se encuentra en read-only reinicie la máquina.
