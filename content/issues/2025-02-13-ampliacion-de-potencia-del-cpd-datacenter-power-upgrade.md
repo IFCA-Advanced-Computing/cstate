@@ -18,6 +18,30 @@ affected:
   - Authentication Single Sign-on
 severity: notice
 ---
+**\[ Update Mar 5, 11:30 a.m.]**
+
+Buenos días,
+
+Estamos teniendo algún problema con una base de datos y estamos trabajando en solucionarlo.
+
+Rebalanceo de GPFS al 98%, está tardando más de lo que esperábamos por los millones de ficheros pequeños.
+
+Disculpen las molestias, les mantendremos informados.
+
+Un saludo
+
+\-﻿--
+
+Good morning,
+
+We are having some problem with a database and we are working on fixing it.
+
+GPFS rebalancing at 98%, it is taking longer than expected due to the millions of small files.
+
+Sorry for the inconvenience, we will keep you informed.
+
+Best regards
+
 **\[ Update Mar 3, 13:40 a.m.]**
 
 G﻿PFS status:
@@ -27,8 +51,6 @@ NVR scrub 14d (41%)
 SSD scrub 14d (87%)
 
 GPFS rebalance (96%)
-
-
 
 **\[ Update Feb 28, 8:40 a.m.]**
 
