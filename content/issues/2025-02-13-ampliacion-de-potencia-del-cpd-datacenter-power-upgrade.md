@@ -16,6 +16,7 @@ affected:
   - Data Science Hub
   - IBM Spectrum Scale
   - Authentication Single Sign-on
+  - OpenStack Compute (nova)
 severity: notice
 ---
 **\[ Update Mar 5, 11:30 a.m.]**
