@@ -2,23 +2,39 @@
 section: issue
 title: Ampliacion de potencia del CPD / Datacenter power upgrade
 date: 2025-02-23T11:28:24.801Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
 resolvedWhen: 2025-02-28T11:28:24.809Z
 affected:
-  - Batch System
-  - Login nodes
-  - User Interfaces
-  - Computing Elements
-  - Wiki (Confluence)
-  - Data Science Hub
   - IBM Spectrum Scale
-  - Authentication Single Sign-on
-  - OpenStack Compute (nova)
 severity: notice
 ---
+**\[ Update Mar 11, 11:00 a.m.]**
+
+B﻿uenos días,
+
+C﻿loud, HPC y Grid ya estná operativos.
+
+E﻿l almacenamiento GPFS ya está ampliado.
+
+D﻿isculpen las molestias
+
+U﻿n saludo
+
+\-﻿-- ----
+
+Good morning,
+
+Cloud, HPC and Grid are now operational.
+
+GPFS storage is now extended.
+
+Apologies for the inconvenience
+
+Best regards
+
 **\[ Update Mar 5, 11:30 a.m.]**
 
 Buenos días,
