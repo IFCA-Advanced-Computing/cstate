@@ -5,7 +5,7 @@ date: 2025-04-04T10:05:51.483Z
 resolved: false
 draft: false
 informational: false
-pin: false
+pin: true
 resolvedWhen: 2025-04-04T10:05:51.493Z
 affected:
   - Authentication main system
