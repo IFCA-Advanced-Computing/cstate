@@ -2,11 +2,11 @@
 section: issue
 title: Login2 - No login
 date: 2025-04-01T09:07:41.963Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-04-01T09:07:41.973Z
+resolvedWhen: 2025-04-03T16:00:41.973Z
 affected:
   - Login nodes
 severity: disrupted
