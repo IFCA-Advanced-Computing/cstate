@@ -2,7 +2,7 @@
 section: issue
 title: Ceph Upgrade
 date: 2025-04-02T08:06:17.929Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: false
