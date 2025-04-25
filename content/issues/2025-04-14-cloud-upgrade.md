@@ -26,3 +26,9 @@ Disculpen las molestias
 We will proceed to update cloud to a new version, this may have some momentary service outage.
 
 Sorry for the inconvenience
+
+\[Update 04-25 13:30 pm]
+
+After the first upgrade of all the Openstack services and some problems with cinder and nova, everything should be stabilized. If you see some issue, do not hesitate to send us a ticket to take a look if something is misconfigured. 
+
+We wil continue with the next update that hopefully, would be lasted until next week.
