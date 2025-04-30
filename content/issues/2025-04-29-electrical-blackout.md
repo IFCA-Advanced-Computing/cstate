@@ -2,7 +2,7 @@
 section: issue
 title: Electrical blackout
 date: 2025-04-28T10:30:35.610Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
