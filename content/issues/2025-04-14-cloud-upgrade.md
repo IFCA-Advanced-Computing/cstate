@@ -2,7 +2,7 @@
 section: issue
 title: Cloud upgrade
 date: 2025-04-14T07:31:17.705Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
