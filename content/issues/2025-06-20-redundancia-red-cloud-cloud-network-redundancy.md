@@ -2,7 +2,7 @@
 section: issue
 title: Redundancia red cloud / Cloud network redundancy
 date: 2025-06-24T06:10:44.898Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
