@@ -10,8 +10,16 @@ resolvedWhen: 2025-07-24T07:02:33.146Z
 affected:
   - Batch System
   - Computing Elements
-severity: down
+severity: notice
 ---
+**\[Update 30 Julio 9am]**
+
+The last version of slurm (25.05) is already installed in the controllers and HPC nodes. Grid is missing but will be operative throughout the morning. There were a delay in the upgrade due to an issue in the WN. 
+
+
+
+\----------------------------------------------------------------------
+
 El **próximo martes 29 de Julio se procederá a la actualización del sistema de colas slurm del clúster de HPC**. Esto es una medida que llevamos semanas posponiendo pero que debemos realizar aprovechando el periodo estival y que hay una menor actividad. Esta actualización es necesaria debido a una vulnerabilidad de seguridad en la versión actual. 
 
 La intervención está planificada para la mañana del martes donde todos los nodos de cómputo estarán apagados. También, para asegurar que los trabajos actuales terminan su ejecución correctamente se procederá a drenar todos los nodos  **hoy, 24 de julio** (mañana y el lunes es fiesta en Santander). En principio, la intervención no debería durar más de la mañana del martes.
