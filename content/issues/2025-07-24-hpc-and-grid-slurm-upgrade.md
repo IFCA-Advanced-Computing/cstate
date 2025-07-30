@@ -12,11 +12,15 @@ affected:
   - Computing Elements
 severity: notice
 ---
+**\[Update 30 Julio 4pm]**
+
+Grid and HPC nodes are already upgraded to slurm 25.05 except altamira nodes. In the following days we will include new nodes to Altamira partition to replace old altamira nodes that are not compatible with the new version of slurm.
+
+
+
 **\[Update 30 Julio 9am]**
 
 The last version of slurm (25.05) is already installed in the controllers and HPC nodes. Grid is missing but will be operative throughout the morning. There were a delay in the upgrade due to an issue in the WN. 
-
-
 
 \----------------------------------------------------------------------
 
