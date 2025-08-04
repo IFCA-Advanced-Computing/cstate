@@ -12,7 +12,7 @@ affected:
   - Computing Elements
 severity: disrupted
 ---
-**\[Update 1 Aug 9am]**
+**\[Update 4 Aug 9am]**
 
 \[English version below]
 
