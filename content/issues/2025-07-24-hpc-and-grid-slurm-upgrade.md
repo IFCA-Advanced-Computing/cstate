@@ -14,6 +14,56 @@ severity: disrupted
 ---
 **\[Update 1 Aug 9am]**
 
+\[English version below]
+
+Estimados/as usuarios/as,
+
+La pasada semana se procedió a actualizar Slurm a la última versión estable y no vulnerable.
+
+Esta actualización nos ha conyevado a más cambios de los previstos inicialmente y estamos terminando algún otro:
+
+* Se han eliminado los nodos que teníamos en centos7, que se encuentra fuera de mantenimiento hace tiempo.
+* Todos los nuevos nodos están actualizados con Alma Linux 9.
+* Reestructuración de particiones de compute y res con los nuevos nodos en AL9
+* Eliminación del nodo antiguo de login1 en CentOS 7, estamos trabajando para que el nuevo login1 con AL9 funcione dentro de nada
+
+Les seguimos manteniendo informados de la actuación en nuestra página de status \[1].
+
+Para cualquier duda o información, no dude en contactarnos en \[2].
+
+Disculpen las molestias
+
+Un saludo
+
+IFCA Advanced Computing Service Team
+
+- - -
+
+\[English version]
+
+Dear users,
+
+Last week we proceeded to update Slurm to the latest stable and non-vulnerable version.
+
+This update has led us to more changes than initially planned and we are finishing some others:
+
+* The nodes we had on centos7, which has been out of maintenance for some time, have been removed.
+* All new nodes are upgraded to Alma Linux 9.
+* Restructuring of compute and res partitions with the new nodes in AL9.
+* Removal of the old login1 node in CentOS 7, we are working to get the new login1 with AL9 up and running in no time.
+
+We continue to keep you informed of the performance on our status page \[1].
+
+For any questions or information, please feel free to contact us at \[2].
+
+Sorry for the inconvenience
+
+Best regards
+
+IFCA Advanced Computing Service Team
+
+**\[Update 1 Aug 9am]**
+
 Slurm controllers are failing. Altamira nodes were removed that cause some issues when slurmctld has to get up. 
 
 **\[Update 30 July 4pm]**
