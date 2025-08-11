@@ -2,11 +2,11 @@
 section: issue
 title: "[HPC and Grid] Slurm upgrade "
 date: 2025-07-29T07:00:33.111Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
-resolvedWhen: 2025-07-30T12:00:33.146Z
+resolvedWhen: 2025-07-31T12:00:33.146Z
 affected:
   - Batch System
   - Computing Elements
