@@ -3,7 +3,7 @@ section: issue
 title: "[IFCA Advanced Computing Service] Reemplazo de switch principal / Main
   switch replacement"
 date: 2025-08-28T19:45:49.189Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
