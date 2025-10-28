@@ -3,7 +3,7 @@ section: issue
 title: Corte de corriente en el CPD / Power outage in the datacenter (27-10-2025
   10:00)
 date: 2025-10-27T09:00:48.412Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
