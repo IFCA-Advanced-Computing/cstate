@@ -2,7 +2,7 @@
 section: issue
 title: Actualizacion de auth01
 date: 2025-12-02T08:00:13.731Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
