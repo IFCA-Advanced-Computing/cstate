@@ -2,7 +2,7 @@
 section: issue
 title: Corte de corriente en el CPD / Power outage in the datacenter (02/03/2025 8:00)
 date: 2026-03-02T07:00:51.703Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
