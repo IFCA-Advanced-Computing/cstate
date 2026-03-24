@@ -2,7 +2,7 @@
 section: issue
 title: network cloud problem
 date: 2026-03-24T08:30:22.577Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
