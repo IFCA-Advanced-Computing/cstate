@@ -2,11 +2,11 @@
 section: issue
 title: WN de cloud network problem
 date: 2026-03-25T09:01:48.540Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2026-03-25T09:01:48.548Z
+resolvedWhen: 2026-04-13T06:07:10.198Z
 affected:
   - Computing Elements
 severity: disrupted
