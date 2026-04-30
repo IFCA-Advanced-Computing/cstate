@@ -16,4 +16,4 @@ In the coming days, maintenance will be carried out on Slurm authentication, and
 
 Update \[30 abr 12.30 pm]
 
-Slurm is updated to support the new native slurm authentication. The change was applied to some group machines, and it works except from wngpus.
+Slurm is updated to support the new native slurm authentication. The change was applied to some group machines, and it works except from wngpus. The rest of the machines needs to apply it in the next hour when puppet runs.
