@@ -2,7 +2,7 @@
 section: issue
 title: "[HPC users] Change in the Slurm authentication mechanism"
 date: 2026-04-28T13:19:10.691Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
