@@ -1,6 +1,6 @@
 ---
 section: issue
-title: HPC - Change switch and ARCCE upgrade
+title: HPC and GRID - Change switch and ARCCE upgrade
 date: 2026-06-18T06:00:45.179Z
 resolved: false
 draft: false
