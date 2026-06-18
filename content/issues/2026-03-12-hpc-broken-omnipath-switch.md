@@ -2,7 +2,7 @@
 section: issue
 title: HPC - Broken Omnipath switch
 date: 2026-03-12T08:20:34.562Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
