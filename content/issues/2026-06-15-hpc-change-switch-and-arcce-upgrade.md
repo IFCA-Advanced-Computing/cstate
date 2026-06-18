@@ -14,7 +14,7 @@ severity: disrupted
 ---
 18/6/2026
 
-\-Switch cambiado. Se continua con actualización de arcce
+\- Switch cambiado. Se continua con actualización de arcce
 
 \-﻿ Switch changed. Continuing with the arcce update
 
