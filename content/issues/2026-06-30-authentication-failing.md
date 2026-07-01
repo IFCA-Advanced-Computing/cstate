@@ -2,10 +2,10 @@
 section: issue
 title: Authentication failing
 date: 2026-06-30T07:43:51.107Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2026-06-30T09:33:51.120Z
 affected:
   - Authentication main system
