@@ -2,7 +2,7 @@
 section: issue
 title: Revoked Certificates
 date: 2026-07-27T08:12:19.867Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
