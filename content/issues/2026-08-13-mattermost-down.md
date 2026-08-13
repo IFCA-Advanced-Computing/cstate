@@ -2,7 +2,7 @@
 section: issue
 title: Mattermost down
 date: 2026-08-13T08:12:15.016Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
